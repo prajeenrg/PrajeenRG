@@ -24,18 +24,6 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
-  <p align="center">
-      <a href="https://instagram.com/prajeenrg" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+919176482999" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/PrajeenRG" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
   </samp>
 </div>
 </details>
@@ -88,7 +76,7 @@
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>statistics</h3></summary>
         <p align="center">
           <a href="https://github.com/PrajeenRG/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PrajeenRG&show_icons=true&theme=gruvbox&hide_border=true" />
